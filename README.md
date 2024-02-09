@@ -1,4 +1,7 @@
 ## READ ME
-This project differs from the previous assignment on ONE point.
-In ReviewController line 40 to line 50 i've added code for GetReviewFromId endpoint. 
-This was previously missed in the last assignment and has been added here since I did not realise it untill I did this project. 
+Detta projekt skiljer sig från den förra inlämningen på EN punkt.
+I ReviewController, rad 40 till rad 50, har jag lagt till kod för GetReviewFromId-endpointen. 
+Detta saknades tidigare i den förra inlämningen och har lagts till här eftersom jag inte insåg det förrän jag gjorde detta projekt.
+
+-----
+Det gamla API:et fungerar annars förutom på just GET/reviews/{id} då
